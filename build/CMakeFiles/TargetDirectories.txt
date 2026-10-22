@@ -1,0 +1,3 @@
+/home/maminghui/light_bar/build/CMakeFiles/light_bar.dir
+/home/maminghui/light_bar/build/CMakeFiles/edit_cache.dir
+/home/maminghui/light_bar/build/CMakeFiles/rebuild_cache.dir
